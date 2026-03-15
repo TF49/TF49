@@ -6,7 +6,7 @@
 
 ### 📌 关于我
 
-- ▲ **个人博客/网站**：`https://tf49.github.io/personal-blog/`
+- ▲ **个人博客/网站**：[https://tf49.github.io/personal-blog/](https://tf49.github.io/personal-blog/)
 - 🎉 **主要方向**：`Java 后端`、`Android`、`Web 前端`、`Linux 运维/小项目`
 - 💬 **微信**：`17378406511`
 - ✉️ **邮箱**：`2131969030@qq.com`
