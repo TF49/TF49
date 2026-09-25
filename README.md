@@ -74,10 +74,14 @@
 
 ---
 
-### 📊 GitHub 统计（可选）
+### 📊 GitHub 统计
 
 <p align="center">
-  <img src="https://github-readme-stats-kappa-snowy-65.vercel.app/api?username=TF49&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TF49&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TF49&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
